@@ -1,3 +1,6 @@
+Fixed this library to FacebookSDK 8.2 to make it compatible with `facebook_app_events: 0.9.0`.
+
+
 # Flutter Facebook App Links
 
 Flutter plugin for [Facebook App Links SDK](https://developers.facebook.com/docs/app-ads/deep-linking/). This plugin must be used to catch deferred deeplinks sent from Facebook after your app has been installed from a FB ADS.
